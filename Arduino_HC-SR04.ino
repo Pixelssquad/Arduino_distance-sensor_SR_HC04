@@ -1,3 +1,8 @@
+// Arduino Distance sensor and OLED display
+// This little project is a fork of: 
+// https://www.hackster.io/rayan-kiwan/arduino-distance-sensor-and-oled-0ff5f7 
+// I have updated some lines for use in the correct mode the Adafruit_SSD1306 library with the new updates
+
 #include <SPI.h>
 #include <Wire.h>
 #include <Adafruit_GFX.h>
